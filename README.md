@@ -7,7 +7,7 @@ I learned about...
 - What DISMATH is not
 - The uses of DISMATH
 - We are moving to a more software-oriented world
-- 
+
 # Week One
 
 I learned about...
@@ -17,7 +17,7 @@ I learned about...
 - Bitwise Operations
 - Logical Variables and Expressions
 - Converse, Inverse and Contrapositive
-- 
+
 # Week Two
 
 I learned about...
@@ -26,7 +26,7 @@ I learned about...
 - Predicate Logic
 - Quantifiers and their use
 - Tools in proving
-- 
+
 # Week Three
 
 I learned about...
