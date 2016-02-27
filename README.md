@@ -33,3 +33,37 @@ I learned about...
 - The importance of studying proofs
 - Methods of proof and their use cases
 - Superman Proof
+
+# Week Four
+
+I learned about...
+- Mathematical Induction
+- Recursion
+- Recursive Functions
+
+# Week Five
+
+I learned about...
+- Program Correctness
+- Power Series
+- Set Theory
+- Set Properties
+- Set Laws
+- Set Operators
+
+# Week Six
+
+I learned about...
+- Functions
+- Types of Functions
+- Doman, Co-domains and Range
+
+# Week Seven
+
+I learned about...
+- Program Correctness
+- Power Series
+- Set Theory
+- Set Properties
+- Set Laws
+- Set Operators
