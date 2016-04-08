@@ -67,3 +67,53 @@ I learned about...
 - Set Properties
 - Set Laws
 - Set Operators
+
+# Week Eight
+
+I learned about...
+- Algorithms
+- Pseudocodes
+- Conversion from Algorithms to Pseudocodes
+
+# Week Nine
+
+I learned about...
+- Sets
+- Specifics of Sets
+
+# Week Ten
+
+I learned about...
+- Specific Algorithms
+- Modifications to Algorithms
+- Most commonly used algorithms
+- Growth of Functions
+- Big O Notation
+- Big Theta Notation
+- Big Omega Notation
+
+# Week Eleven
+
+I learned about...
+- Nothing, because there wasn't class
+
+# Week Twelve
+
+I learned about...
+- Graph Theory
+- Hamilton Graphs
+- Euler Graphs
+- Graph Matrix
+- Kuratowski's Theorem
+
+# Week Thirteen
+
+I learned about...
+- Elementary Subdivisions
+- Tree Graphs
+- Four-Colour Theorem
+- Languages
+- Gramar
+- Formal and Natural Languages
+- Syntax and Semantics
+- Finite-State Machines
